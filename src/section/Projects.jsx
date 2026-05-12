@@ -2,9 +2,9 @@ import { ArrowUpRight, Github } from "lucide-react";
 import { AnimatedBorderButton } from "@/components/AnimatedBorderButton";
 const projects = [
   {
-    title: "vision_Prompt_game",
+    title: "Labevo-lab evolution system",
     description:
-      "Developed an interactive Promptgame the game provides users with a fun way to explore how AI interprets prompts and visuals in real time.",
+      "Developed an interactive comprehensive MERN stack application that allows instructors to create programming tests and students to write, run, and submit code in a real-time sandboxed environment.",
     image: "/Labevo.png",
     tags: ["React", "Node.js","MongoDB","Express.js","Vercel","Tailwind CSS"],
     link: "labevo.vercel.app",
