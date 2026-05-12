@@ -7,7 +7,7 @@ const projects = [
       "Developed an interactive comprehensive MERN stack application that allows instructors to create programming tests and students to write, run, and submit code in a real-time sandboxed environment.",
     image: "/Labevo.png",
     tags: ["React", "Node.js","MongoDB","Express.js","Vercel","Tailwind CSS"],
-    link: "labevo.vercel.app",
+    link: "https://labevo.vercel.app",
     github: "https://github.com/Amolsharma370/Labevo",
   },
   {
