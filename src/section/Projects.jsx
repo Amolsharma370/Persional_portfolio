@@ -2,6 +2,24 @@ import { ArrowUpRight, Github } from "lucide-react";
 import { AnimatedBorderButton } from "@/components/AnimatedBorderButton";
 const projects = [
   {
+    title: "vision_Prompt_game",
+    description:
+      "Developed an interactive Promptgame the game provides users with a fun way to explore how AI interprets prompts and visuals in real time.",
+    image: "/Labevo.png",
+    tags: ["React", "Node.js","MongoDB","Express.js","Vercel","Tailwind CSS"],
+    link: "labevo.vercel.app",
+    github: "https://github.com/Amolsharma370/Labevo",
+  },
+  {
+    title: "vision_Prompt_game",
+    description:
+      "Developed an interactive Promptgame the game provides users with a fun way to explore how AI interprets prompts and visuals in real time.",
+    image: "/vision.png",
+    tags: ["JavaScript", "CSS", "HTML"],
+    link: "https://amolsharma370.github.io/vision_Prompt_game/",
+    github: "https://github.com/Amolsharma370/vision_Prompt_game",
+  },
+  {
     title: "E-commerce website",
     description:
       "Developed an interactive E-commerce  featuring task to display the products ,add to cart feature and the cart total price section and a responsive, user-friendly interface.",
